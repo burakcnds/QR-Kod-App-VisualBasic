@@ -1,0 +1,87 @@
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.exe
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.deps.json
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.runtimeconfig.json
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.runtimeconfig.dev.json
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.dll
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\ref\QRKod.dll
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.pdb
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\Qr.Net.Imaging.dll
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\ThoughtWorks.QRCode.dll
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbprojAssemblyReference.cache
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.Form1.resources
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.Resources.resources
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbproj.GenerateResource.cache
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.AssemblyInfoInputs.cache
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.AssemblyInfo.vb
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbproj.CoreCompileInputs.cache
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbproj.CopyComplete
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.dll
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\ref\QRKod.dll
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.pdb
+D:\Mutlu\Derste Yapılanlar\G3_2021\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.genruntimeconfig.cache
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.exe
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.deps.json
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.runtimeconfig.json
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.runtimeconfig.dev.json
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.dll
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\ref\QRKod.dll
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.pdb
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\Qr.Net.Imaging.dll
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\bin\Debug\net5.0-windows\ThoughtWorks.QRCode.dll
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbprojAssemblyReference.cache
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.Form1.resources
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.Resources.resources
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbproj.GenerateResource.cache
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.AssemblyInfoInputs.cache
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.AssemblyInfo.vb
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbproj.CoreCompileInputs.cache
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbproj.CopyComplete
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.dll
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\ref\QRKod.dll
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.pdb
+D:\MYALI\G3\G3NÖ_A\Hafta13\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.genruntimeconfig.cache
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.exe
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.deps.json
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.runtimeconfig.json
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.runtimeconfig.dev.json
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.dll
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\ref\QRKod.dll
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.pdb
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\Qr.Net.Imaging.dll
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\ThoughtWorks.QRCode.dll
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbprojAssemblyReference.cache
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.Form1.resources
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.Resources.resources
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbproj.GenerateResource.cache
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.AssemblyInfoInputs.cache
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.AssemblyInfo.vb
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbproj.CoreCompileInputs.cache
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbproj.CopyComplete
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.dll
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\ref\QRKod.dll
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.pdb
+D:\MYALI\G3\G3NÖ_A\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.genruntimeconfig.cache
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.exe
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.deps.json
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.runtimeconfig.json
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.runtimeconfig.dev.json
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.dll
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\ref\QRKod.dll
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\QRKod.pdb
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\Qr.Net.Imaging.dll
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\bin\Debug\net5.0-windows\ThoughtWorks.QRCode.dll
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbproj.AssemblyReference.cache
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.Form1.resources
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.Resources.resources
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbproj.GenerateResource.cache
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.AssemblyInfo.vb
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.vbproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.dll
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\ref\QRKod.dll
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.pdb
+C:\Users\burak\source\repos\GORSELFINAL\Hafta14.rar-20220516091353159\Hafta14\QRKod\QRKod\obj\Debug\net5.0-windows\QRKod.genruntimeconfig.cache

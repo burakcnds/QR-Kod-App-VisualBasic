@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "QRKod/1.0.0": {
+        "dependencies": {
+          "Qr.Net.Imaging": "1.0.0.0",
+          "ThoughtWorks.QRCode": "1.0.7807.36792"
+        },
+        "runtime": {
+          "QRKod.dll": {}
+        }
+      },
+      "Qr.Net.Imaging/1.0.0.0": {
+        "runtime": {
+          "Qr.Net.Imaging.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ThoughtWorks.QRCode/1.0.7807.36792": {
+        "runtime": {
+          "ThoughtWorks.QRCode.dll": {
+            "assemblyVersion": "1.0.7807.36792",
+            "fileVersion": "1.0.7807.36792"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QRKod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Qr.Net.Imaging/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThoughtWorks.QRCode/1.0.7807.36792": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
